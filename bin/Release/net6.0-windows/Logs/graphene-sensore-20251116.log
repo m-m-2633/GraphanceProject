@@ -1,0 +1,51 @@
+[2025-11-16 20:56:07.754] [INFO    ] [DatabaseInit] Starting database initialization
+[2025-11-16 20:56:08.817] [INFO    ] [DatabaseInit] Testing database connection...
+[2025-11-16 20:56:08.965] [INFO    ] [DatabaseInit] Database connection successful
+[2025-11-16 20:56:09.032] [INFO    ] [DatabaseInit] Database already exists
+[2025-11-16 20:56:09.332] [INFO    ] [DatabaseInit] Admin user verified - no updates needed
+[2025-11-16 20:56:09.334] [INFO    ] [DatabaseInit] Database initialization completed successfully
+[2025-11-16 20:56:09.887] [INFO    ] [App] Application started successfully
+[2025-11-16 20:56:28.054] [INFO    ] [Auth] Login attempt for user: admin
+[2025-11-16 20:56:28.427] [INFO    ] [Auth] Login successful for user: admin (Type: Admin)
+[2025-11-16 20:56:28.443] [INFO    ] [DatabaseInit] Starting database initialization
+[2025-11-16 20:56:28.537] [INFO    ] [DatabaseInit] Testing database connection...
+[2025-11-16 20:56:28.538] [INFO    ] [DatabaseInit] Starting database initialization
+[2025-11-16 20:56:28.539] [INFO    ] [DatabaseInit] Testing database connection...
+[2025-11-16 20:56:28.544] [INFO    ] [DatabaseInit] Database connection successful
+[2025-11-16 20:56:28.546] [INFO    ] [DatabaseInit] Database connection successful
+[2025-11-16 20:56:28.578] [INFO    ] [DatabaseInit] Database already exists
+[2025-11-16 20:56:28.581] [INFO    ] [DatabaseInit] Database already exists
+[2025-11-16 20:56:28.583] [INFO    ] [DatabaseInit] Admin user verified - no updates needed
+[2025-11-16 20:56:28.587] [INFO    ] [DatabaseInit] Database initialization completed successfully
+[2025-11-16 20:56:28.589] [INFO    ] [DatabaseInit] Admin user verified - no updates needed
+[2025-11-16 20:56:28.598] [INFO    ] [DatabaseInit] Database initialization completed successfully
+[2025-11-16 20:56:31.521] [INFO    ] [App] Application shutting down
+[2025-11-16 20:57:11.994] [INFO    ] [DatabaseInit] Starting database initialization
+[2025-11-16 20:57:12.957] [INFO    ] [DatabaseInit] Testing database connection...
+[2025-11-16 20:57:13.090] [INFO    ] [DatabaseInit] Database connection successful
+[2025-11-16 20:57:13.114] [INFO    ] [DatabaseInit] Database already exists
+[2025-11-16 20:57:13.412] [INFO    ] [DatabaseInit] Admin user verified - no updates needed
+[2025-11-16 20:57:13.415] [INFO    ] [DatabaseInit] Database initialization completed successfully
+[2025-11-16 20:57:13.788] [INFO    ] [App] Application started successfully
+[2025-11-16 20:57:55.504] [INFO    ] [Auth] Login attempt for user: admin
+[2025-11-16 20:57:55.779] [INFO    ] [Auth] Login successful for user: admin (Type: Admin)
+[2025-11-16 20:57:55.878] [INFO    ] [DatabaseInit] Starting database initialization
+[2025-11-16 20:57:55.879] [INFO    ] [DatabaseInit] Testing database connection...
+[2025-11-16 20:57:55.881] [INFO    ] [DatabaseInit] Starting database initialization
+[2025-11-16 20:57:55.884] [INFO    ] [DatabaseInit] Testing database connection...
+[2025-11-16 20:57:55.886] [INFO    ] [DatabaseInit] Database connection successful
+[2025-11-16 20:57:55.890] [INFO    ] [DatabaseInit] Database connection successful
+[2025-11-16 20:57:55.891] [INFO    ] [DatabaseInit] Database already exists
+[2025-11-16 20:57:55.892] [INFO    ] [DatabaseInit] Admin user verified - no updates needed
+[2025-11-16 20:57:55.909] [INFO    ] [DatabaseInit] Database initialization completed successfully
+[2025-11-16 20:57:55.913] [INFO    ] [DatabaseInit] Database already exists
+[2025-11-16 20:57:55.945] [INFO    ] [DatabaseInit] Admin user verified - no updates needed
+[2025-11-16 20:57:55.948] [INFO    ] [DatabaseInit] Database initialization completed successfully
+[2025-11-16 20:58:11.670] [INFO    ] [DatabaseInit] Starting database initialization
+[2025-11-16 20:58:11.674] [INFO    ] [DatabaseInit] Testing database connection...
+[2025-11-16 20:58:11.675] [INFO    ] [DatabaseInit] Database connection successful
+[2025-11-16 20:58:11.679] [INFO    ] [DatabaseInit] Database already exists
+[2025-11-16 20:58:11.682] [INFO    ] [DatabaseInit] Admin user verified - no updates needed
+[2025-11-16 20:58:11.683] [INFO    ] [DatabaseInit] Database initialization completed successfully
+[2025-11-16 21:00:07.907] [INFO    ] [ApplicantManagementVM] Loaded 0 applicants
+[2025-11-16 21:00:51.208] [INFO    ] [App] Application shutting down
